@@ -1,235 +1,517 @@
 <div align="center">
 
-<!-- ============ HERO BANNER (animated gradient wave, capsule-render) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:7F5AF0,100:00E5FF&height=280&section=header&text=Hello%20World%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=I'm%20JIYA%20NAZ&descAlignY=58&descSize=22&descColor=F9F871"/>
-
-<!-- ============ TYPING ANIMATION (readme-typing-svg) ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=B.Tech+CSE+%7C+AI+%26+ML+Student;Future+Software+Engineer;Java+Developer;Python+Developer;Full+Stack+Learner;Open+Source+Explorer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ============ PROFILE VIEWS / VISITOR BADGE ============ -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=00E5FF" alt="followers"/>
+<!-- UNIQUE HEADER: Minimal but Impactful -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,100:8338EC&height=200&section=header&text=Jiya%20Naz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Explorer&descAlignY=55&descSize=18" alt="Header" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=3&section=header"/>
+---
 
-<!-- ============ SOCIAL / CONTACT BUTTONS ============ -->
-<h3 align="center">🔗 Connect With Me</h3>
+## 🚀 Quick Profile Snapshot
 
-<div align="center">
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FF5DA2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br/>
-<a href="https://twitter.com/YOUR-TWITTER-HANDLE"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE"><img src="https://img.shields.io/badge/Instagram-F9F871?style=for-the-badge&logo=instagram&logoColor=black" /></a>
-<a href="https://leetcode.com/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<br/>
-<a href="https://www.codechef.com/users/YOUR-CODECHEF-ID"><img src="https://img.shields.io/badge/CodeChef-7F5AF0?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-ID"><img src="https://img.shields.io/badge/HackerRank-00E5FF?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-<a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-FF5DA2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-F9F871?style=for-the-badge&logo=googledocs&logoColor=black" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF5DA2&height=3&section=header"/>
-
-<!-- ============ ABOUT ME CARD ============ -->
-<h2 align="center">💜 About Me</h2>
-
-<table align="center" width="90%">
+<table>
 <tr>
-<td align="center" style="padding:20px;">
+<td width="50%">
 
-🎓 &nbsp;**Student** — B.Tech CSE (AI & ML), India 🇮🇳
-&nbsp;
-💻 &nbsp;**Tech Stack** — Java · Python · JavaScript · React · SQL
-&nbsp;
-🚀 &nbsp;**Current Goal** — Become a Software Engineer while building impactful projects
-&nbsp;
-🌱 &nbsp;**Learning** — DSA, Full Stack Development, AI/ML
-&nbsp;
-⚡ &nbsp;**Fun Fact** — I debug faster with music on 🎧
-&nbsp;
-🎯 &nbsp;**2026 Goals** — Land an internship & contribute to Open Source
+**Who I Am**
+```
+🎓 B.Tech CSE (AI & ML)
+📍 India
+💼 Software Developer (In Progress)
+🧠 Problem Solver by Nature
+```
+
+</td>
+<td width="50%">
+
+**What I Do**
+```
+🛠️ Build Full-Stack Applications
+🤖 Explore AI & Machine Learning
+🌐 Create Scalable Solutions
+📚 Learn & Share Knowledge
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5DA2,100:8A2BE2&height=3&section=header"/>
+---
 
-<!-- ============ TECH STACK ============ -->
-<h2 align="center">🛠️ Tech Stack</h2>
+## 💎 My Unique Value
 
-<div align="center">
+> **I don't just write code—I build solutions that matter.**
+> 
+> Combining AI/ML expertise with full-stack development to create intelligent, scalable applications that solve real-world problems. Passionate about open-source and committed to continuous learning.
 
-**Programming**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py,js,cpp&theme=dark" />
+---
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+## 🎯 The Journey Map
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    CURRENT FOCUS AREAS                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🔵 Full-Stack Development        ████████░░ 80%           │
+│  🔵 AI & Machine Learning         ██████░░░░ 60%           │
+│  🔵 Data Structures & Algorithms  ███████░░░ 70%           │
+│  🔵 System Design & Scalability   █████░░░░░ 50%           │
+│  🔵 Open Source Contribution      ██████░░░░ 60%           │
+│                                                             │
+│                      🎯 GOAL: Software Engineer at FAANG    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" />
+---
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=3&section=header"/>
-
-<!-- ============ GITHUB STATS WIDGETS ============ -->
-<h2 align="center">📊 GitHub Analytics</h2>
+## 🔗 Connect With Me
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF5DA2&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff" />
+**Let's collaborate** — Reach out on your preferred platform
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF5DA2&currStreakLabel=00E5FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&bg_color=0D1117&color=00E5FF&line=FF5DA2&point=F9F871&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jiya-naz-810639328/)](https://www.linkedin.com/in/jiya-naz-810639328/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white&link=https://github.com/jiyanaz1325-pixel)](https://github.com/jiyanaz1325-pixel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jiynaz1325@gmail.com)](mailto:jiynaz1325@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=flat-square&logo=globe&logoColor=white&link=https://jiyanaz1325-pixel.github.io/Portfolio/)](https://jiyanaz1325-pixel.github.io/Portfolio/)
 
 </div>
 
-> **Setup note:** the Streak Stats widget above sometimes sleeps — if it shows a placeholder, revisit the URL once to wake it up (it's a free Heroku-style service).
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF5DA2&height=3&section=header"/>
+## 💻 Tech Arsenal
 
-<!-- ============ CONTRIBUTION SNAKE ============ -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<details open>
+<summary><b>🎨 Frontend Stack</b></summary>
+
+| Technology | Proficiency | Projects |
+|:--|:--|:--|
+| **React** | Advanced | Portfolio, Movie Explorer, Quiz App |
+| **JavaScript/TypeScript** | Advanced | Full-Stack Projects |
+| **Tailwind CSS** | Intermediate | Modern UI Design |
+| **HTML5 & CSS3** | Advanced | Responsive Designs |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+
+| Technology | Proficiency | Use Case |
+|:--|:--|:--|
+| **Node.js & Express** | Intermediate | RESTful APIs |
+| **MongoDB** | Intermediate | NoSQL Data |
+| **MySQL & SQL** | Advanced | Relational Databases |
+| **Python** | Advanced | Backend, ML |
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & ML Stack</b></summary>
+
+| Technology | Proficiency | Focus |
+|:--|:--|:--|
+| **Python** | Advanced | ML Development |
+| **Machine Learning** | Intermediate | Algorithms, Models |
+| **Data Science** | Intermediate | Analysis, Visualization |
+| **NLP & Computer Vision** | Beginner | Exploring |
+
+</details>
+
+<details open>
+<summary><b>🛠️ Developer Tools</b></summary>
+
+```
+Git & GitHub  │  VS Code  │  Postman  │  Figma  │  Docker (Learning)
+```
+
+</details>
+
+---
+
+## 🏆 Why Hire Me?
+
+<table align="center">
+<tr>
+<td width="33%">
+
+### 🎯 **Problem Solver**
+Tackle complex challenges with logical thinking and creative solutions
+
+</td>
+<td width="33%">
+
+### 🚀 **Quick Learner**
+Master new technologies rapidly and apply them effectively
+
+</td>
+<td width="33%">
+
+### 🤝 **Team Player**
+Collaborate seamlessly and contribute to collective success
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="33%">
+
+### 📈 **Result Oriented**
+Focus on measurable outcomes and continuous improvement
+
+</td>
+<td width="33%">
+
+### 💡 **Innovative**
+Think outside the box and create novel solutions
+
+</td>
+<td width="33%">
+
+### 🌱 **Growth Mindset**
+Embrace challenges and view failures as learning opportunities
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<!-- Core Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&line_height=27&hide=contribs)
+
+<!-- Language Distribution -->
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=github_dark&hide_border=true&card_width=350)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jiyanaz1325-pixel&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FB8500)
 
 </div>
 
-> To activate this, add the free **[Platane/snk](https://github.com/Platane/snk)** GitHub Action to a repo named exactly like your username (a "profile repo"). It generates the snake SVG automatically on a schedule — no paid service required.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5DA2,100:8A2BE2&height=3&section=header"/>
+## 🌟 Portfolio Highlights
 
-<!-- ============ CODING / EXTRAS SECTION ============ -->
-<h2 align="center">☕ Coding Corner</h2>
+<details open>
+<summary><b>Featured Project #1: Movie Recommendation System</b></summary>
+
+```
+🎬 Intelligent Movie Discovery Platform
+├─ Smart Recommendations using ML algorithms
+├─ User-Friendly Interface with React
+├─ Real-time Data Processing
+└─ Tech: Python, React, TensorFlow, APIs
+```
+
+**[View on GitHub →](https://github.com/jiyanaz1325-pixel/Movie-Explorer-Recommendation-Web-Application)**
+
+</details>
+
+<details open>
+<summary><b>Featured Project #2: Interactive Quiz Platform</b></summary>
+
+```
+❓ Full-Stack Quiz Application
+├─ Real-time Scoring System
+├─ Multiple Question Types
+├─ Progress Tracking
+└─ Tech: React, Node.js, MongoDB, Express
+```
+
+**[View on GitHub →](https://github.com/jiyanaz1325-pixel/Online-Quiz-Web-Application-)**
+
+</details>
+
+<details open>
+<summary><b>Featured Project #3: Personal Portfolio</b></summary>
+
+```
+💼 Modern Portfolio Website
+├─ Responsive Design (Mobile & Desktop)
+├─ Smooth Animations & Transitions
+├─ Project Showcase & Contact Form
+└─ Tech: React, Tailwind CSS, JavaScript
+```
+
+**[View Live →](https://jiyanaz1325-pixel.github.io/Portfolio/)**
+
+</details>
+
+---
+
+## 📈 What's Next?
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="coding gif"/>
-
-<br/><br/>
-
-<!-- Spotify Now Playing (requires free spotify-github-profile setup) -->
-<img src="https://novatorem-YOUR-USERNAME.vercel.app/api/spotify" width="400" alt="spotify now playing"/>
+| Phase | Goal | Timeline |
+|:--|:--|:--|
+| **Phase 1** | Master Full-Stack Development | In Progress |
+| **Phase 2** | Build 5+ Production Projects | Next 6 Months |
+| **Phase 3** | Land Internship at Top Tech Company | Within 12 Months |
+| **Phase 4** | Contribute to Major Open Source | Ongoing |
+| **Phase 5** | Become Senior Software Engineer | 5-Year Goal |
 
 </div>
 
-> **Spotify widget:** deploy the free open-source **[novatorem](https://github.com/novatorem/novatorem)** or **[spotify-github-profile](https://github.com/kittinan/spotify-github-profile)** template to Vercel with your own Spotify API keys, then swap in your deployed URL above.
-> **Wakatime:** once you install the free WakaTime extension in your editor, embed your weekly stats with **[wakatime-badge](https://github.com/athul/waka-readme)**.
-> **Latest blog posts:** use the free **[blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)** GitHub Action to auto-pull your latest posts here.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=3&section=header"/>
-
-<!-- ============ TIMELINE / ROADMAP ============ -->
-<h2 align="center">🗺️ My Journey</h2>
+## 💪 Key Strengths & Metrics
 
 <div align="center">
 
 ```
-   2024  ──▶  Started Programming
-     │
-   2025  ──▶  Learning Java
-     │
-   2026  ──▶  Full Stack Development
-     │
-          ──▶  AI & ML
-     │
-          ──▶  Open Source
-     │
-          ──▶  Internships
-     │
-          ──▶  Software Engineer 🚀
+┌────────────────────────────────────────────────┐
+│  📊 PERFORMANCE METRICS                        │
+├────────────────────────────────────────────────┤
+│                                                │
+│  💯 Code Quality        [████████░░] 80%      │
+│  ⚡ Productivity        [█████████░] 90%      │
+│  🎯 Problem Solving    [████████░░] 80%      │
+│  📚 Continuous Learning [█████████░] 90%      │
+│  🤝 Collaboration      [████████░░] 85%      │
+│                                                │
+└────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:F9F871&height=3&section=header"/>
+---
 
-<!-- ============ GOALS / SKILL PROGRESS ============ -->
-<h2 align="center">🎯 Skill Progress</h2>
+## 🎓 Currently Learning
 
 <div align="center">
 
-**Java**
-<br/>
-<img src="https://progress-bar.dev/70/?width=400&color=8A2BE2" />
-
-**Python**
-<br/>
-<img src="https://progress-bar.dev/80/?width=400&color=7F5AF0" />
-
-**React**
-<br/>
-<img src="https://progress-bar.dev/50/?width=400&color=00E5FF" />
-
-**DSA**
-<br/>
-<img src="https://progress-bar.dev/60/?width=400&color=FF5DA2" />
-
-**AI / ML**
-<br/>
-<img src="https://progress-bar.dev/30/?width=400&color=F9F871" />
+```javascript
+const currentFocus = {
+  "Deep Learning": "Neural Networks, TensorFlow",
+  "System Design": "Scalability, Microservices",
+  "Cloud Platforms": "AWS, Google Cloud",
+  "DevOps": "Docker, Kubernetes",
+  "Advanced DSA": "Competitive Programming"
+}
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5DA2,100:8A2BE2&height=3&section=header"/>
+---
 
-<!-- ============ FOOTER ============ -->
+## 🏅 Competitive Profiles
+
 <div align="center">
 
-✨ *"Thank you for visiting my profile.* <br/> *Let's build something amazing together."* ✨
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problems-FFA500?style=flat-square&logo=leetcode)](https://leetcode.com/yourprofile)
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-Ratings-5B4A3A?style=flat-square&logo=codechef)](https://www.codechef.com/yourprofile)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Verified-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/yourprofile)
 
-<br/>
-
-**Made with ❤️ by Jiya Naz**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7F5AF0,100:8A2BE2&height=150&section=footer"/>
+**Target:** Solve 500+ problems and reach expert level by year-end
 
 </div>
+
+---
+
+## 🎯 For Recruiters
+
+<div align="center">
+
+**Looking for:**
+- Junior Software Engineer roles
+- Full-Stack Development opportunities
+- AI/ML focused positions
+- Internship programs at FAANG companies
+
+**I bring:**
+- ✅ Strong foundation in CS fundamentals
+- ✅ Hands-on experience building production applications
+- ✅ Passion for AI/ML and scalable systems
+- ✅ Proven ability to learn quickly and adapt
+- ✅ Open source contribution experience
+- ✅ Excellent communication & collaboration skills
+
+**Open to:** Relococation • Remote • Hybrid
+
+</div>
+
+---
+
+## 📞 Quick Contact
+
+<div align="center">
+
+| Method | Details |
+|:--|:--|
+| 📧 **Email** | jiynaz1325@gmail.com |
+| 💼 **LinkedIn** | [linkedin.com/in/jiya-naz-810639328](https://www.linkedin.com/in/jiya-naz-810639328/) |
+| 🐙 **GitHub** | [@jiyanaz1325-pixel](https://github.com/jiyanaz1325-pixel) |
+| 🌐 **Portfolio** | [jiyanaz1325-pixel.github.io/Portfolio](https://jiyanaz1325-pixel.github.io/Portfolio/) |
+
+**Response Time:** Usually within 24 hours ⏱️
+
+</div>
+
+---
+
+## 📱 Profile Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jiyanaz1325-pixel&color=0369a1&style=flat-square&label=Profile+Views)
+[![GitHub Followers](https://img.shields.io/github/followers/jiyanaz1325-pixel?style=flat-square&color=0369a1&logo=github)](https://github.com/jiyanaz1325-pixel)
+[![GitHub Stars](https://img.shields.io/github/stars/jiyanaz1325-pixel?style=flat-square&color=0369a1&logo=github)](https://github.com/jiyanaz1325-pixel)
+
+</div>
+
+---
+
+## 🌍 Interests & Passions
+
+<table align="center">
+<tr>
+<td width="25%">
+
+### 🤖 AI & ML
+Fascinated by intelligent systems and their real-world applications
+
+</td>
+<td width="25%">
+
+### 🌐 Web Dev
+Building beautiful, scalable web experiences
+
+</td>
+<td width="25%">
+
+### 💡 Innovation
+Creating solutions to unsolved problems
+
+</td>
+<td width="25%">
+
+### 📚 Learning
+Never stop growing and exploring
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Open To
+
+<div align="center">
+
+✅ **Collaboration** on innovative projects  
+✅ **Mentorship** from experienced professionals  
+✅ **Knowledge sharing** and community contributions  
+✅ **Networking** with like-minded developers  
+✅ **Internship/Job** opportunities at great companies  
+
+</div>
+
+---
+
+## 🎨 Code Philosophy
+
+```python
+"""
+My approach to software development:
+
+1. CLARITY > CLEVERNESS
+   Write code that others (and future me) can understand
+
+2. TEST EVERYTHING
+   Quality assurance is not optional
+
+3. OPTIMIZE LATER
+   Get it working first, then optimize
+
+4. LISTEN & LEARN
+   Feedback is a gift, not criticism
+
+5. SHIP & ITERATE
+   Done is better than perfect
+
+6. GIVE BACK
+   Contribute to open source and help others
+"""
+```
+
+---
+
+## 🚀 Let's Build Something Amazing!
+
+<div align="center">
+
+Whether you're a recruiter looking for talent, a collaborator with an idea, or someone who just wants to chat about tech—
+
+**I'm here for it! 👇**
+
+[![Email](https://img.shields.io/badge/Send%20Me%20An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiynaz1325@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiya-naz-810639328/)
+
+</div>
+
+---
+
+<div align="center">
+
+### Made with 💻 and ❤️ by Jiya Naz
+
+```
+✨ Always Learning | Always Building | Always Growing ✨
+```
+
+Last Updated: 2024 | [Back to Top](#-hi-im-jiya-naz)
+
+</div>
+
+---
+
+## 📋 Customization Guide
+
+```
+REPLACE THESE PLACEHOLDERS:
+
+USERNAME & URLS:
+- jiyanaz1325-pixel → Your GitHub username
+- jiya-naz-810639328 → Your LinkedIn profile ID
+- jiynaz1325@gmail.com → Your email
+- jiyanaz1325-pixel.github.io/Portfolio/ → Your portfolio URL
+
+PROJECT LINKS:
+- Movie-Explorer-Recommendation-Web-Application → Your repo name
+- Online-Quiz-Web-Application- → Your repo name
+- yourprofile (LeetCode, CodeChef, HackerRank) → Your profiles
+
+PERSONALIZATION:
+- Update the "Journey Map" with your actual focus areas
+- Modify tech stack based on what you know
+- Update project descriptions
+- Change timeline to your goals
+- Update "Why Hire Me" section with your strengths
+- Adjust metrics to reflect your actual progress
+
+SECTIONS TO CUSTOMIZE:
+1. Quick Profile Snapshot - Your actual info
+2. Value Proposition - Your unique pitch
+3. Journey Map - Your current focus
+4. Tech Arsenal - Your real skills
+5. Featured Projects - Your actual projects
+6. Learning Goals - Your real goals
+7. Competitive Profiles - Your actual profiles
+
+TIPS:
+- Keep it updated regularly
+- Add new projects as you complete them
+- Update metrics monthly
+- Share your profile with recruiters
+- Customize colors/styles if desired
+```
+
+
