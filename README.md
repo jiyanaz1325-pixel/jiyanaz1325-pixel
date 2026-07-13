@@ -1,8 +1,7 @@
-<div style="width:100%;height:220px;background-image:url('https://i.pinimg.com/originals/10/21/19/1021191284254616169.jpg');background-size:cover;background-position:center;border-radius:8px;margin-bottom:20px">
+<div style="width:100%;height:220px;background-image:url('https://i.pinimg.com/originals/10/21/19/1021191284254616169.jpg');background-size:cover;background-position:center;border-radius:8px;margin-bottom:20px"></div>
 
 # 💫 About Me:
 I'm passionate about building tools and workflows that make development easier. Currently exploring web development, developer tooling, and creating solutions around GitHub workflows.
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiya-naz-810639328) [![email](https://img.shields.io/badge/Email-D14836?logo=gm[...] 
