@@ -213,7 +213,7 @@
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?&color=FFFFFF&height=150&section=footer&text=Thank%20You%20💜&fontSize=40&fontColor=7F5AF0"/>
+Thank You
 </br>
 
 
