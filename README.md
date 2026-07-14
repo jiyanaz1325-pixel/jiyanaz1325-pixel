@@ -7,7 +7,7 @@
 <br/>
 
 <!-- ============ GREETING & TYPING ANIMATION ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&duration=3000&pause=800&color=7F5AF0&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+👋+I'm+JIYA+NAZ;Software+Developer;Java+Developer;Web+Developer;Problem+Solver" alt="Typing SVG"/>
+
 
 <br/>
 
