@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ============ CREATIVE TYPING ANIMATION ============ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=4A5568&vCenter=true&random=false&width=600&lines=Hey!+I'm+Jiya+Naz;Building+things+one+line+at+a+time;CSE+Student+%7C+AI+%26+ML+Enthusiast;Always+learning.+Always+growing.&repeat=false" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=ffff&vCenter=true&random=false&width=600&lines=Hey!+I'm+Jiya+Naz;Building+things+one+line+at+a+time;CSE+Student+%7C+AI+%26+ML+Enthusiast;Always+learning.+Always+growing.&repeat=false" alt="Typing SVG" /></a>
 
 <br/>
 <br/>
@@ -138,18 +138,6 @@
 
 </div>
 
----
-
-## 💭 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote" />
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -168,10 +156,6 @@
 <div align="center">
 
 <br/>
-
-### Thank You for visiting! 
-
-**Made with ☕ by Jiya Naz**
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-4A5568?style=flat-square" alt="Back to Top" /></a>
 
