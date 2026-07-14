@@ -31,7 +31,7 @@
 <!-- ============ PROFILE STATS ============ -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=jiyanaz1325-pixel&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=9F7AEA" alt="Followers"/>
 
