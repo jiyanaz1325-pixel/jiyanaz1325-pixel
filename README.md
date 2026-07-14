@@ -6,8 +6,7 @@
 
 <br/>
 
-============ GREETING & TYPING ANIMATION ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=48&duration=2000&pause=1000&color=7F5AF0&background=00000000&center=true&vCenter=true&width=700&height=100&lines=hii+im+jiya+naz+👋" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&vCenter=true&random=false&width=521&lines=I+am+Jiya+Naz..;I+am+a+learner" alt="Typing SVG" /></a>
 
 
 <br/>
