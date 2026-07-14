@@ -92,7 +92,7 @@
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:9F7AEA&height=3"/>
+
 
 <!-- ============ INTERNSHIP PROJECTS ============ -->
 <h2 align="center">📂 Internship Projects</h2>
