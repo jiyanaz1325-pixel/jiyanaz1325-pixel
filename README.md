@@ -5,7 +5,7 @@
 <br/>
 
 <!-- ============ HERO GIF ============ -->
-<img width="100%" src="https://github.com/jiyanaz1325-pixel/jiyanaz1325-pixel/raw/main/assets/pixel_city_hero.gif" alt="Pixel City Night - Animated Hero"/>
+<img width="100%" src="pixel_city_hero.gif" alt="Pixel City Night - Animated Hero"/>
 
 <br/>
 <br/>
