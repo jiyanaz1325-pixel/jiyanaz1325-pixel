@@ -213,8 +213,7 @@
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving,50:9F7AEA,100:C4B5FD&height=150&section=footer&text=Thank%20You%20💜&fontSize=40&fontColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:9F7AEA,100:C4B5FD&height=150&section=footer&text=Thank%20You%20💜&fontSize=40&fontColor=FFFFFF"/>
 
 
 <a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-7F5AF0?style=for-the-badge" alt="Back to Top" /></a>
