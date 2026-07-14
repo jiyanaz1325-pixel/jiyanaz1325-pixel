@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ============ CREATIVE TYPING ANIMATION ============ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=ffff&vCenter=true&random=false&width=600&lines=Hey!+I'm+Jiya+Naz;Building+things+one+line+at+a+time;CSE+Student+%7C+AI+%26+ML+Enthusiast;Always+learning.+Always+growing.&repeat=false" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=ffff&vCenter=true&random=false&width=600&lines=Hey!+👋 I'm+Jiya+Naz..&repeat=false" alt="Typing SVG" /></a>
 
 <br/>
 <br/>
