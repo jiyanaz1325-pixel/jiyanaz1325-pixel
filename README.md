@@ -1,9 +1,16 @@
 <div align="center">
 
-<!-- ============ HERO SECTION — animated "video" background + glowing name banner ============ -->
-<img width="100%" src="https://media.giphy.com/media/xUOxfjsdBpKk1p2W8U/giphy.gif" alt="animated synthwave city"/>
+<!-- ============ HERO SECTION — custom pixel-art night city, text baked directly into the GIF ============ -->
+<img width="100%" src="YOUR-HOSTED-GIF-URL/pixel_city_hero.gif" alt="Hello World, I'm Jiya Naz - animated pixel city"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B6E4,50:AEDFF7,100:B5EAD7&height=220&section=header&text=Hello%20World%20👋%20I'm%20JIYA%20NAZ&fontSize=42&fontColor=4A3F6B&fontAlignY=45&animation=twinkling"/>
+<!-- compact redirecting social icons, sits right under the hero like a signature strip -->
+<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/-C9B6E4?style=for-the-badge&logo=github&logoColor=4A3F6B" height="32"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/-AEDFF7?style=for-the-badge&logo=linkedin&logoColor=2E4A5C" height="32"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6B2E3F" height="32"/></a>
+<a href="https://twitter.com/YOUR-TWITTER-HANDLE"><img src="https://img.shields.io/badge/-D7D3F8?style=for-the-badge&logo=x&logoColor=4A3F6B" height="32"/></a>
+<a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE"><img src="https://img.shields.io/badge/-FFF3B0?style=for-the-badge&logo=instagram&logoColor=6B5F1F" height="32"/></a>
+
+<br/>
 
 <!-- ============ TYPING ANIMATION — Space Grotesk, pastel glow ============ -->
 <a href="#">
@@ -258,5 +265,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B5EAD7,50:AEDFF7,100:C9B6E4&height=150&section=footer"/>
 
 </div>
-
 
