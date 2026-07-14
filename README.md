@@ -5,13 +5,13 @@
 <br/>
 
 <!-- ============ HERO GIF ============ -->
-<img src="pixel_city_hero.gif" alt="Description of the animation">
+<img width="100%" src="https://github.com/jiyanaz1325-pixel/jiyanaz1325-pixel/raw/main/assets/pixel_city_hero.gif" alt="Pixel City Night - Animated Hero"/>
 
 <br/>
 <br/>
 
 <!-- ============ CREATIVE TYPING ANIMATION ============ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&lines=👋+Hey!+I'm+Jiya+Naz.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=0D1117&vCenter=true&random=false&width=600&lines=👋+Hey!+I'm+Jiya+Naz.." alt="Typing SVG" /></a>
 
 <br/>
 <br/>
@@ -151,11 +151,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<br/>
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-4A5568?style=flat-square" alt="Back to Top" /></a>
 
