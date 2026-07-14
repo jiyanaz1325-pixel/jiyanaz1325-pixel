@@ -200,23 +200,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9F7AEA,100:C4B5FD&height=3"/>
 
-<!-- ============ RANDOM DEV QUOTE ============ -->
-<h2 align="center">💭 Dev Quote</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C4B5FD,100:7F5AF0&height=3"/>
-
-<!-- ============ FOOTER ============ -->
-<div align="center">
-Thank You
-</br>
 
 
-<a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-7F5AF0?style=for-the-badge" alt="Back to Top" /></a>
-
-</div>
