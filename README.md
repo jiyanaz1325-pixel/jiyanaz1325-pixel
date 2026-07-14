@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ HERO GIF ============ -->
-<img width="100%" src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/raw/main/assets/pixel_city_hero.gif" alt="Pixel City Night - Animated Hero"/>
+<img width="100%" src="https://github.com/jiyanaz1325-pixel/jiyanaz1325-pixel/raw/main/assets/pixel_city_hero.gif" alt="Pixel City Night - Animated Hero"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 [📄 Resume](https://your-resume.com) &nbsp;&nbsp;
 [📧 Email Me](mailto:your-email@example.com) &nbsp;&nbsp;
 [💼 LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) &nbsp;&nbsp;
-[⭐ Follow](https://github.com/YOUR-USERNAME)
+[⭐ Follow](https://github.com/jiyanaz1325-pixel)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jiyanaz1325-pixel&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=9F7AEA" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/jiyanaz1325-pixel?style=for-the-badge&color=9F7AEA" alt="Followers"/>
 
 </div>
 
@@ -103,7 +103,7 @@
 
 **Tech Stack:** Java · Spring Boot · React · MySQL · JWT
 
-[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/PROJECT-1)
+[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/jiyanaz1325-pixel/PROJECT-1)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-9F7AEA?style=for-the-badge&logo=vercel)](https://project-1-live.com)
 
 <br/>
@@ -113,7 +113,7 @@
 
 **Tech Stack:** Java · Spring Boot · MongoDB · React · WebSocket
 
-[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/PROJECT-2)
+[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/jiyanaz1325-pixel/PROJECT-2)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-9F7AEA?style=for-the-badge&logo=vercel)](https://project-2-live.com)
 
 <br/>
@@ -123,7 +123,7 @@
 
 **Tech Stack:** JavaScript · React · HTML · CSS · Weather API
 
-[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/PROJECT-3)
+[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/jiyanaz1325-pixel/PROJECT-3)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-9F7AEA?style=for-the-badge&logo=vercel)](https://project-3-live.com)
 
 <br/>
@@ -133,7 +133,7 @@
 
 **Tech Stack:** Java · Spring Boot · PostgreSQL · React · Chart.js
 
-[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/PROJECT-4)
+[![GitHub](https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github)](https://github.com/jiyanaz1325-pixel/PROJECT-4)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-9F7AEA?style=for-the-badge&logo=vercel)](https://project-4-live.com)
 
 </div>
@@ -145,25 +145,25 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F5AF0&icon_color=C4B5FD&text_color=FFFFFF" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F5AF0&icon_color=C4B5FD&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F5AF0&text_color=FFFFFF" alt="Top Languages" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7F5AF0&fire=C4B5FD&currStreakLabel=C4B5FD" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F5AF0&text_color=FFFFFF" alt="Top Languages" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&bg_color=0d1117&color=7F5AF0&line=9F7AEA&point=C4B5FD&hide_border=true" alt="Activity Graph" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaz1325-pixel&theme=tokyonight&hide_border=true&background=0d1117&ring=7F5AF0&fire=C4B5FD&currStreakLabel=C4B5FD" alt="GitHub Streak" />
 
 <br/>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophy" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=tokyo-night&bg_color=0d1117&color=7F5AF0&line=9F7AEA&point=C4B5FD&hide_border=true" alt="Activity Graph" />
 
 <br/>
 
-<img width="90%" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=jiyanaz1325-pixel&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophy" />
+
+<br/>
+
+<img width="90%" src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -189,7 +189,7 @@
 <div align="center">
 
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) &nbsp;|&nbsp;
-[GitHub](https://github.com/YOUR-USERNAME) &nbsp;|&nbsp;
+[GitHub](https://github.com/jiyanaz1325-pixel) &nbsp;|&nbsp;
 [Instagram](https://instagram.com/YOUR-INSTAGRAM) &nbsp;|&nbsp;
 [Twitter/X](https://twitter.com/YOUR-TWITTER) &nbsp;|&nbsp;
 [Portfolio](https://your-portfolio.com) &nbsp;|&nbsp;
