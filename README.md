@@ -64,89 +64,191 @@ I believe the best way to learn is by building projects.
 ---
 
 # 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jiya-naz-810639328/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/jiyanaz1325-pixel" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:jiyanaz1325@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="45" alt="Gmail"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45" alt="Instagram"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" alt="Portfolio"/>
 </a>
 
 </p>
-
 ---
 
 # 💻 Tech Arsenal
 
 ## 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
-</p>
+<h2 align="center">💻 Tech Arsenal</h2>
 
----
+<h3>👨‍💻 Programming Languages</h3>
 
-## 🎨 Frontend Development
+<p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-</p>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java"/>
+</a>
 
----
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python"/>
+</a>
 
-## ⚙️ Backend Development
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript"/>
+</a>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html"/>
+</a>
 
----
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css"/>
+</a>
 
-## 🗄️ Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</a>
 
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+### 🎨 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux"/>
+<p>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+</a>
+
 </p>
 
 ---
 
-## ☁️ Cloud
+### ⚙️ Backend
 
-<p align="left">
+<p>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express"/>
+</a>
+
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</a>
+
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/pandas"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/numpy"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/scikitlearn"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/opencv"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws"/>
+</a>
+
 </p>
 
 ---
