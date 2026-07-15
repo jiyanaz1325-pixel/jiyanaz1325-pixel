@@ -1,4 +1,40 @@
 <!-- ========================= -->
+<!--      HOVER EFFECTS CSS    -->
+<!-- ========================= -->
+
+<style>
+  /* Zoom effect for Connect With Me section */
+  .connect-badge {
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .connect-badge:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Zoom effect for Tech Arsenal section */
+  .tech-badge {
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .tech-badge:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Zoom effect for Featured Projects buttons */
+  .project-badge {
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .project-badge:hover {
+    transform: scale(1.15);
+  }
+</style>
+
+<!-- ========================= -->
 <!--        HERO SECTION       -->
 <!-- ========================= -->
 
@@ -65,23 +101,23 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
+<a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank" class="connect-badge">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/jiyanaz1325-pixel" target="_blank">
+<a href="https://github.com/jiyanaz1325-pixel" target="_blank" class="connect-badge">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:jiyanaz1325@gmail.com">
+<a href="mailto:jiyanaz1325@gmail.com" class="connect-badge">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
+<a href="https://www.instagram.com/_jiya.naz_/" target="_blank" class="connect-badge">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
+<a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank" class="connect-badge">
 <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -95,27 +131,27 @@ I believe the best way to learn is by building projects.
 
 <p>
 
-<a href="https://www.java.com/" target="_blank">
+<a href="https://www.java.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=java"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=python"/>
 </a>
 
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=javascript"/>
 </a>
 
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=html"/>
 </a>
 
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=css"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </a>
 
@@ -127,11 +163,11 @@ I believe the best way to learn is by building projects.
 
 <p>
 
-<a href="https://react.dev/" target="_blank">
+<a href="https://react.dev/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
 
-<a href="https://getbootstrap.com/" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </a>
 
@@ -143,11 +179,11 @@ I believe the best way to learn is by building projects.
 
 <p>
 
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://nodejs.org/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 
-<a href="https://expressjs.com/" target="_blank">
+<a href="https://expressjs.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=express"/>
 </a>
 
@@ -159,7 +195,7 @@ I believe the best way to learn is by building projects.
 
 <p>
 
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://www.mongodb.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </a>
 
@@ -169,11 +205,11 @@ I believe the best way to learn is by building projects.
 
 <p>
 
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="https://code.visualstudio.com/" target="_blank" class="tech-badge">
 <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
 
@@ -191,11 +227,11 @@ I believe the best way to learn is by building projects.
 
 **Tech Stack:** HTML | CSS | JavaScript | OMDb API
 
-<a href="https://github.com/jiyanaz1325-pixel/movie-explorer" target="_blank">
+<a href="https://github.com/jiyanaz1325-pixel/movie-explorer" target="_blank" class="project-badge">
 <img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/movie-explorer/" target="_blank">
+<a href="https://jiyanaz1325-pixel.github.io/movie-explorer/" target="_blank" class="project-badge">
 <img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
@@ -207,11 +243,11 @@ I believe the best way to learn is by building projects.
 
 **Tech Stack:** React | JavaScript | CSS | Bootstrap
 
-<a href="https://github.com/jiyanaz1325-pixel/online-quiz" target="_blank">
+<a href="https://github.com/jiyanaz1325-pixel/online-quiz" target="_blank" class="project-badge">
 <img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/online-quiz/" target="_blank">
+<a href="https://jiyanaz1325-pixel.github.io/online-quiz/" target="_blank" class="project-badge">
 <img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
@@ -223,11 +259,11 @@ I believe the best way to learn is by building projects.
 
 **Tech Stack:** React | CSS | Tailwind CSS
 
-<a href="https://github.com/jiyanaz1325-pixel/Portfolio" target="_blank">
+<a href="https://github.com/jiyanaz1325-pixel/Portfolio" target="_blank" class="project-badge">
 <img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
+<a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank" class="project-badge">
 <img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
