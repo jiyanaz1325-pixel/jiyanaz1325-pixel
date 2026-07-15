@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="100%" height="100">
+  <defs>
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes pulse {
+        0%, 100% { filter: drop-shadow(0 0 3px rgba(61, 184, 255, 0.5)); }
+        50% { filter: drop-shadow(0 0 10px rgba(61, 184, 255, 0.8)); }
+      }
+      .tech-icon {
+        animation: float 3s ease-in-out infinite, pulse 2s ease-in-out infinite;
+        cursor: pointer;
+      }
+      .tech-icon:hover {
+        animation: float 2s ease-in-out, pulse 1.5s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+  
+  <!-- Python -->
+  <g class="tech-icon" transform="translate(50, 50)">
+    <circle cx="0" cy="0" r="35" fill="#3776AB"/>
+    <text x="0" y="8" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">🐍</text>
+  </g>
+  
+  <!-- JavaScript -->
+  <g class="tech-icon" transform="translate(150, 50)">
+    <circle cx="0" cy="0" r="35" fill="#F7DF1E"/>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333" text-anchor="middle">JS</text>
+  </g>
+  
+  <!-- React -->
+  <g class="tech-icon" transform="translate(250, 50)">
+    <circle cx="0" cy="0" r="35" fill="#61DAFB"/>
+    <text x="0" y="8" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#282C34" text-anchor="middle">⚛️</text>
+  </g>
+  
+  <!-- Node.js -->
+  <g class="tech-icon" transform="translate(350, 50)">
+    <circle cx="0" cy="0" r="35" fill="#68A063"/>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Node</text>
+  </g>
+  
+  <!-- MongoDB -->
+  <g class="tech-icon" transform="translate(450, 50)">
+    <circle cx="0" cy="0" r="35" fill="#13AA52"/>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Mongo</text>
+  </g>
+  
+  <!-- GitHub -->
+  <g class="tech-icon" transform="translate(550, 50)">
+    <circle cx="0" cy="0" r="35" fill="#121011"/>
+    <text x="0" y="8" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">🐙</text>
+  </g>
+</svg>
