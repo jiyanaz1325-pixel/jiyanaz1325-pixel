@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Cyberpunk Banner">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -83,79 +83,85 @@ I believe the best way to learn is by building projects.
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Arsenal
 
-## Languages
+## 👨‍💻 Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
 </p>
 
 ---
 
-## Frontend
+## 🎨 Frontend Development
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-
 </p>
 
 ---
 
-## Backend
+## ⚙️ Backend Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ---
 
-## AI & Machine Learning
+## 🗄️ Database
 
-<p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
 </p>
 
 ---
 
-## Tools
+## 🛠️ Tools & Platforms
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,postman,figma"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux"/>
 </p>
 
 ---
 
-# 📂 Featured Projects
+## ☁️ Cloud
 
-| Project | Description |
-|----------|-------------|
-| 🎬 Movie Recommendation System | AI-powered movie recommendation platform |
-| 📄 AI Resume Analyzer | Resume analysis using NLP |
-| 😊 Face Recognition Attendance | OpenCV attendance system |
-| 🌐 Portfolio Website | Responsive portfolio |
-| 🤖 ChatGPT Clone | AI chatbot using OpenAI APIs |
-| 💰 Expense Tracker | MERN Stack project |
-| 🏡 House Price Prediction | Machine Learning Regression |
-| 🎓 Student Management System | CRUD Application |
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
 
+---
+# 🚀 Featured Projects
+
+| 🚀 Project | 📄 Description | 🛠 Tech Stack | 🔗 Repository | 🌐 Live Demo |
+|------------|----------------|---------------|---------------|--------------|
+| 🎬 Movie Recommendation System | Recommends movies using the OMDb API with search, filtering, and a responsive interface. | HTML, CSS, JavaScript, OMDb API | [Repository](https://github.com/YOUR_USERNAME/Movie-Explorer-Recommendation-Web-Application) | [Live Demo](https://YOUR_USERNAME.github.io/Movie-Explorer-Recommendation-Web-Application/) |
+| 📄 AI Resume Analyzer | Analyzes resumes using NLP and suggests improvements. | Python, Streamlit, NLP | [Repository](#) | Coming Soon |
+| 😊 Face Recognition Attendance | Attendance system using real-time face recognition. | Python, OpenCV | [Repository](#) | — |
+| 🌐 Portfolio Website | Personal portfolio showcasing skills, projects, and certifications. | React, CSS | [Repository](#) | [Live Demo](#) |
+| 🤖 ChatGPT Clone | AI chatbot with conversational interface using LLM APIs. | React, Node.js | [Repository](#) | Coming Soon |
+| 💰 Expense Tracker | Track income and expenses with interactive dashboards. | MERN Stack | [Repository](#) | Coming Soon |
+| 🏠 House Price Prediction | Predicts house prices using regression algorithms. | Python, Scikit-Learn | [Repository](#) | — |
+| 🎓 Student Management System | CRUD application to manage student records. | Java, MySQL | [Repository](#) | — |
 ---
 
 # 📊 GitHub Analytics
@@ -198,15 +204,16 @@ I believe the best way to learn is by building projects.
 
 # 📜 Certifications
 
-- Microsoft Learn
-- Google Cloud
-- AWS
-- IBM
-- Cisco
-- Oracle
-- NPTEL
-- Coursera
-
+| 🎓 Certification | 🏢 Platform | 📖 Description |
+|-----------------|------------|----------------|
+| Microsoft Learn AI Fundamentals | Microsoft Learn | Covers AI concepts, Azure AI services, machine learning basics, and responsible AI practices. |
+| AWS Cloud Practitioner Essentials | AWS Skill Builder | Introduction to AWS cloud services, security, pricing, and architecture. |
+| Google Cloud Fundamentals | Google Cloud Skills Boost | Learn cloud computing, storage, networking, and deployment on GCP. |
+| IBM Machine Learning with Python | IBM Skills Network | Practical machine learning using Python and Scikit-Learn. |
+| Python for Everybody | Coursera | Covers Python programming fundamentals, data structures, APIs, and automation. |
+| NPTEL Programming in Java | NPTEL | Object-oriented programming, collections, exception handling, multithreading, and Java best practices. |
+| Cisco Introduction to Networks | Cisco Networking Academy | Networking fundamentals including IP addressing, routing, switching, and network security. |
+| Data Analytics with Pandas | Coursera | Data cleaning, transformation, analysis, and visualization using Pandas and NumPy. |
 ---
 
 # ❤️ THANK YOU!
