@@ -17,7 +17,7 @@ Building intelligent applications that solve real-world problems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=#A020F0&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="typing-svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=#000000&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="typing-svg"/>
 </p>
 
 ---
