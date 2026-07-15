@@ -11,7 +11,9 @@ Hi 👋, I'm <span style="color:#FF6B6B;">JIYA NAZ</span>
 </h1>
 
 <h3 align="center">
+<font color="#58A6FF">
 🎓 B.Tech CSE (AI & ML) | 🤖 AI Engineer | 💻 Full Stack Developer
+</font>
 </h3>
 
 <p align="center">
