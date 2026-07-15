@@ -234,33 +234,20 @@ I believe the best way to learn is by building projects.
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&theme=buefy"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=buefy"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
-
----
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaz1325-pixel&theme=buefy"/>
-
+  <img src="https://streak-stats.demolab.com?user=jiyanaz1325-pixel&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=github-light"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 # 📜 Certifications
