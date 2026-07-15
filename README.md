@@ -265,28 +265,14 @@ I believe the best way to learn is by building projects.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jiyanaz1325-pixel&theme=flat&column=4"/>
-
-</p>
-
----
-
 # 📜 Certifications
 
-| 🎓 Certification | 🏢 Platform | 📖 Description |
-|-----------------|------------|----------------|
-| Microsoft Learn AI Fundamentals | Microsoft Learn | Covers AI concepts, Azure AI services, machine learning basics, and responsible AI practices. |
-| AWS Cloud Practitioner Essentials | AWS Skill Builder | Introduction to AWS cloud services, security, pricing, and architecture. |
-| Google Cloud Fundamentals | Google Cloud Skills Boost | Learn cloud computing, storage, networking, and deployment on GCP. |
-| IBM Machine Learning with Python | IBM Skills Network | Practical machine learning using Python and Scikit-Learn. |
-| Python for Everybody | Coursera | Covers Python programming fundamentals, data structures, APIs, and automation. |
-| NPTEL Programming in Java | NPTEL | Object-oriented programming, collections, exception handling, multithreading, and Java best practices. |
-| Cisco Introduction to Networks | Cisco Networking Academy | Networking fundamentals including IP addressing, routing, switching, and network security. |
-| Data Analytics with Pandas | Coursera | Data cleaning, transformation, analysis, and visualization using Pandas and NumPy. |
+| 🎓 Certification | 🏢 Issued By | 📅 Period | 📖 Description |
+|-----------------|------------|----------|----------------|
+| MERN Full Stack Development | Coding Spoon | 2025-26 | Comprehensive training in MongoDB, Express.js, React, and Node.js for building scalable full-stack web applications with modern JavaScript frameworks. |
+| Full Stack Development - Advanced React and Node.js | Coding Spoon | 2025-26 | Advanced level certification covering in-depth React concepts, state management, API integration, and backend development with Node.js. |
+| Microsoft Office 2010 | Infosys Springboard | 2024-25 | Proficiency in Microsoft Office suite including Word, Excel, PowerPoint, and Access for productivity and data management. |
+| Programming in C | Infosys Springboard | 2024-25 | Fundamental programming concepts and practical implementation using C language including data structures, functions, and memory management. |
 
 ---
 
