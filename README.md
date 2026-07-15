@@ -68,23 +68,31 @@ I believe the best way to learn is by building projects.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/jiyanaz1325-pixel" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:jiyanaz1325@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" width="120" height="50" alt="Gmail"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="50" height="50" alt="Instagram"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white" width="120" height="50" alt="Portfolio"/>
 </a>
 
 </p>
