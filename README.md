@@ -99,10 +99,6 @@ I believe the best way to learn is by building projects.
 </p>
 ---
 
-# 💻 Tech Arsenal
-
-## 👨‍💻 Programming Languages
-
 <h2 align="center">💻 Tech Arsenal</h2>
 
 <h3>👨‍💻 Programming Languages</h3>
@@ -178,7 +174,7 @@ I believe the best way to learn is by building projects.
 </a>
 
 </p>
----
+
 
 ### 🛠️ Tools
 
