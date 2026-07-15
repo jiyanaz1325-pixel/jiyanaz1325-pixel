@@ -19,7 +19,7 @@ Building intelligent applications that solve real-world problems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Python+Developer;React+Developer;Open+Source+Learner;Continuous+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="typing-svg"/>
 </p>
 
 ---
@@ -64,39 +64,31 @@ I believe the best way to learn is by building projects.
 ---
 
 # 🌐 Connect With Me
-<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/jiyanaz1325-pixel" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:jiyanaz1325@gmail.com">
-<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="45" alt="Gmail"/>
+<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="50" alt="Gmail"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45" alt="Instagram"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" alt="Instagram"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" alt="Portfolio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" alt="Portfolio"/>
 </a>
 
 </p>
+
 ---
 
 <h2 align="center">💻 Tech Arsenal</h2>
@@ -175,7 +167,6 @@ I believe the best way to learn is by building projects.
 
 </p>
 
-
 ### 🛠️ Tools
 
 <p>
@@ -187,38 +178,33 @@ I believe the best way to learn is by building projects.
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
+
 </p>
 
 ---
+
 # 🚀 Featured Projects
 
 | 🚀 Project | 📄 Description | 🛠 Tech Stack | 🔗 Repository | 🌐 Live Demo |
 |------------|----------------|---------------|---------------|--------------|
-| 🎬 Movie Recommendation System | Recommends movies using the OMDb API with search, filtering, and a responsive interface. | HTML, CSS, JavaScript, OMDb API | [Repository](https://github.com/YOUR_USERNAME/Movie-Explorer-Recommendation-Web-Application) | [Live Demo](https://YOUR_USERNAME.github.io/Movie-Explorer-Recommendation-Web-Application/) |
-| 📄 AI Resume Analyzer | Analyzes resumes using NLP and suggests improvements. | Python, Streamlit, NLP | [Repository](#) | Coming Soon |
-| 😊 Face Recognition Attendance | Attendance system using real-time face recognition. | Python, OpenCV | [Repository](#) | — |
-| 🌐 Portfolio Website | Personal portfolio showcasing skills, projects, and certifications. | React, CSS | [Repository](#) | [Live Demo](#) |
-| 🤖 ChatGPT Clone | AI chatbot with conversational interface using LLM APIs. | React, Node.js | [Repository](#) | Coming Soon |
-| 💰 Expense Tracker | Track income and expenses with interactive dashboards. | MERN Stack | [Repository](#) | Coming Soon |
-| 🏠 House Price Prediction | Predicts house prices using regression algorithms. | Python, Scikit-Learn | [Repository](#) | — |
-| 🎓 Student Management System | CRUD application to manage student records. | Java, MySQL | [Repository](#) | — |
+| 🎬 Movie Recommendation System | Recommends movies using the OMDb API with search, filtering, and a responsive interface. | HTML, CSS, JavaScript, OMDb API | [Repository](https://github.com/jiyanaz1325-pixel/movie-recommendation) | [Live Demo](https://jiyanaz1325-pixel.github.io/movie-recommendation) |
+| 📄 AI Resume Analyzer | Analyzes resumes using NLP and suggests improvements. | Python, Streamlit, NLP | [Repository](https://github.com/jiyanaz1325-pixel/ai-resume-analyzer) | [Live Demo](https://ai-resume-analyzer-app.streamlit.app) |
+| 😊 Face Recognition Attendance | Attendance system using real-time face recognition. | Python, OpenCV, Django | [Repository](https://github.com/jiyanaz1325-pixel/face-recognition-attendance) | — |
+| 🌐 Portfolio Website | Personal portfolio showcasing skills, projects, and certifications. | React, CSS, Tailwind | [Repository](https://github.com/jiyanaz1325-pixel/Portfolio) | [Live Demo](https://jiyanaz1325-pixel.github.io/Portfolio) |
+| 🤖 ChatGPT Clone | AI chatbot with conversational interface using LLM APIs. | React, Node.js, Express, OpenAI API | [Repository](https://github.com/jiyanaz1325-pixel/chatgpt-clone) | Coming Soon |
+| 💰 Expense Tracker | Track income and expenses with interactive dashboards. | MERN Stack (MongoDB, Express, React, Node.js) | [Repository](https://github.com/jiyanaz1325-pixel/expense-tracker) | Coming Soon |
+| 🏠 House Price Prediction | Predicts house prices using regression algorithms. | Python, Scikit-Learn, Pandas | [Repository](https://github.com/jiyanaz1325-pixel/house-price-prediction) | — |
+| 🎓 Student Management System | CRUD application to manage student records. | Java, MySQL, Swing | [Repository](https://github.com/jiyanaz1325-pixel/student-management-system) | — |
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -226,7 +212,15 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaz1325-pixel&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=tokyo-night"/>
 
 </p>
 
@@ -236,7 +230,7 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jiyanaz1325-pixel&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -254,13 +248,14 @@ I believe the best way to learn is by building projects.
 | NPTEL Programming in Java | NPTEL | Object-oriented programming, collections, exception handling, multithreading, and Java best practices. |
 | Cisco Introduction to Networks | Cisco Networking Academy | Networking fundamentals including IP addressing, routing, switching, and network security. |
 | Data Analytics with Pandas | Coursera | Data cleaning, transformation, analysis, and visualization using Pandas and NumPy. |
+
 ---
 
 # ❤️ THANK YOU!
 
 <p align="center">
 
-<a href="https://github.com/sponsors/YOUR_USERNAME">
+<a href="https://github.com/sponsors/jiyanaz1325-pixel">
 
 <img src="https://img.shields.io/badge/GitHub-Sponsor-pink?style=for-the-badge&logo=github"/>
 
