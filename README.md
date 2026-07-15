@@ -3,11 +3,11 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="banner" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="banner" width="100%">
 </p>
 
 <h1 align="center">
-Hi 👋, I'm <span style="color:#58A6FF;">JIYA NAZ</span>
+Hi 👋, I'm <span style="color:#FF6B6B;">JIYA NAZ</span>
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@ Building intelligent applications that solve real-world problems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="typing-svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=FF6B6B&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="typing-svg"/>
 </p>
 
 ---
@@ -202,17 +202,9 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&theme=buefy"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaz1325-pixel&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=buefy"/>
 
 </p>
 
@@ -220,7 +212,15 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaz1325-pixel&theme=buefy"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=github-light"/>
 
 </p>
 
@@ -230,7 +230,7 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jiyanaz1325-pixel&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jiyanaz1325-pixel&theme=flat&column=4"/>
 
 </p>
 
@@ -267,6 +267,6 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:58A6FF&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:FF6B6B&height=150&section=footer"/>
 
 </p>
