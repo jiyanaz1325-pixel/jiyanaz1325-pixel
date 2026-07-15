@@ -178,48 +178,11 @@ I believe the best way to learn is by building projects.
 </a>
 
 </p>
-
----
-
-### 🤖 AI & Machine Learning
-
-<p>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/pandas"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/numpy"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/scikitlearn"/>
-</a>
-
-<a href="https://opencv.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/opencv"/>
-</a>
-
-</p>
-
 ---
 
 ### 🛠️ Tools
 
 <p>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git"/>
-</a>
 
 <a href="https://github.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -228,27 +191,6 @@ I believe the best way to learn is by building projects.
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postman"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=figma"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=aws"/>
-</a>
-
 </p>
 
 ---
