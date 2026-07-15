@@ -68,23 +68,23 @@ I believe the best way to learn is by building projects.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/jiyanaz1325-pixel" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:jiyanaz1325@gmail.com">
-<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="50" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?logo=chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
