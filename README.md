@@ -66,23 +66,23 @@ I believe the best way to learn is by building projects.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/linkedin-badge.svg" alt="LinkedIn" width="150" height="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/jiyanaz1325-pixel" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/github-badge.svg" alt="GitHub" width="150" height="45"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:jiyanaz1325@gmail.com">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/gmail-badge.svg" alt="Gmail" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/instagram-badge.svg" alt="Instagram" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/portfolio-badge.svg" alt="Portfolio" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
@@ -90,12 +90,6 @@ I believe the best way to learn is by building projects.
 ---
 
 <h2 align="center">💻 Tech Arsenal</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/tech-icons.svg" alt="Tech Stack" width="100%"/>
-</p>
-
----
 
 <h3>👨‍💻 Programming Languages</h3>
 
@@ -198,11 +192,11 @@ I believe the best way to learn is by building projects.
 **Tech Stack:** HTML | CSS | JavaScript | OMDb API
 
 <a href="https://github.com/jiyanaz1325-pixel/movie-explorer" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/repository-badge.svg" alt="Repository" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
 <a href="https://jiyanaz1325-pixel.github.io/movie-explorer/" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/live-demo-badge.svg" alt="Live Demo" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
 ---
@@ -214,11 +208,11 @@ I believe the best way to learn is by building projects.
 **Tech Stack:** React | JavaScript | CSS | Bootstrap
 
 <a href="https://github.com/jiyanaz1325-pixel/online-quiz" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/repository-badge.svg" alt="Repository" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
 <a href="https://jiyanaz1325-pixel.github.io/online-quiz/" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/live-demo-badge.svg" alt="Live Demo" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
 ---
@@ -230,29 +224,41 @@ I believe the best way to learn is by building projects.
 **Tech Stack:** React | CSS | Tailwind CSS
 
 <a href="https://github.com/jiyanaz1325-pixel/Portfolio" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/repository-badge.svg" alt="Repository" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
 <a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
-<img src="https://raw.githubusercontent.com/jiyanaz1325-pixel/jiyanaz1325-pixel/main/live-demo-badge.svg" alt="Live Demo" width="150" height="45"/>
+<img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
 </div>
 
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyanaz1325-pixel&show_icons=true&theme=buefy"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaz1325-pixel&layout=compact&theme=buefy"/>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jiyanaz1325-pixel&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaz1325-pixel&theme=buefy"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyanaz1325-pixel&theme=github-light"/>
+
 </p>
 
 ---
@@ -286,4 +292,4 @@ I believe the best way to learn is by building projects.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100:FF6B6B&height=150&section=footer"/>
 
-</p>
+</p> 
