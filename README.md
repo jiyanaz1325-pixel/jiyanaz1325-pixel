@@ -14,8 +14,8 @@
 <br/>
 
 <!-- ============ CREATIVE TITLE ============ -->
-<h1>🎭 MASTERJUDAH</h1>
-<h3>Phantom Programmer | Incognito Coder</h3>
+<h1>🎭 JIYA NAZ</h1>
+<h3> Programmer | Coder</h3>
 <p><i>Behind the screen, beyond the scene</i></p>
 
 <br/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 👋 Namaste 🙏 I'm Joshua Thadi
+## 👋 Hello I'm Jiya Naz
 
 I'm currently pursuing a **Bachelor's degree in Computer Science**, actively working on improving my programming skills and exploring various areas of IT industry. My academic experience includes building a solid foundation in software development while actively engaging emerging technologies. 
 
