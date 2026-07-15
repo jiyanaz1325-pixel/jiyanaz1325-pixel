@@ -68,31 +68,23 @@ I believe the best way to learn is by building projects.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jiya-naz-810639328/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/jiyanaz1325-pixel" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:jiyanaz1325@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_jiya.naz_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" height="50"/>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
-<img src="https://skillicons.dev/icons?i=chrome" width="50" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?logo=chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
