@@ -1,40 +1,4 @@
 <!-- ========================= -->
-<!--      HOVER EFFECTS CSS    -->
-<!-- ========================= -->
-
-<style>
-  /* Zoom effect for Connect With Me section */
-  .connect-badge {
-    display: inline-block;
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .connect-badge:hover {
-    transform: scale(1.2);
-  }
-  
-  /* Zoom effect for Tech Arsenal section */
-  .tech-badge {
-    display: inline-block;
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .tech-badge:hover {
-    transform: scale(1.2);
-  }
-  
-  /* Zoom effect for Featured Projects buttons */
-  .project-badge {
-    display: inline-block;
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .project-badge:hover {
-    transform: scale(1.15);
-  }
-</style>
-
-<!-- ========================= -->
 <!--        HERO SECTION       -->
 <!-- ========================= -->
 
