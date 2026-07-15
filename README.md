@@ -185,16 +185,55 @@ I believe the best way to learn is by building projects.
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 📄 Description | 🛠 Tech Stack | 🔗 Repository | 🌐 Live Demo |
-|------------|----------------|---------------|---------------|--------------|
-| 🎬 Movie Recommendation System | Recommends movies using the OMDb API with search, filtering, and a responsive interface. | HTML, CSS, JavaScript, OMDb API | [Repository](https://github.com/jiyanaz1325-pixel/movie-recommendation) | [Live Demo](https://jiyanaz1325-pixel.github.io/movie-recommendation) |
-| 📄 AI Resume Analyzer | Analyzes resumes using NLP and suggests improvements. | Python, Streamlit, NLP | [Repository](https://github.com/jiyanaz1325-pixel/ai-resume-analyzer) | [Live Demo](https://ai-resume-analyzer-app.streamlit.app) |
-| 😊 Face Recognition Attendance | Attendance system using real-time face recognition. | Python, OpenCV, Django | [Repository](https://github.com/jiyanaz1325-pixel/face-recognition-attendance) | — |
-| 🌐 Portfolio Website | Personal portfolio showcasing skills, projects, and certifications. | React, CSS, Tailwind | [Repository](https://github.com/jiyanaz1325-pixel/Portfolio) | [Live Demo](https://jiyanaz1325-pixel.github.io/Portfolio) |
-| 🤖 ChatGPT Clone | AI chatbot with conversational interface using LLM APIs. | React, Node.js, Express, OpenAI API | [Repository](https://github.com/jiyanaz1325-pixel/chatgpt-clone) | Coming Soon |
-| 💰 Expense Tracker | Track income and expenses with interactive dashboards. | MERN Stack (MongoDB, Express, React, Node.js) | [Repository](https://github.com/jiyanaz1325-pixel/expense-tracker) | Coming Soon |
-| 🏠 House Price Prediction | Predicts house prices using regression algorithms. | Python, Scikit-Learn, Pandas | [Repository](https://github.com/jiyanaz1325-pixel/house-price-prediction) | — |
-| 🎓 Student Management System | CRUD application to manage student records. | Java, MySQL, Swing | [Repository](https://github.com/jiyanaz1325-pixel/student-management-system) | — |
+<div align="center">
+
+### 🎬 Movie Explorer
+
+<p>Discover and explore movies with advanced search and filtering capabilities using the OMDb API</p>
+
+**Tech Stack:** HTML | CSS | JavaScript | OMDb API
+
+<a href="https://github.com/jiyanaz1325-pixel/movie-explorer" target="_blank">
+<img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+
+<a href="https://jiyanaz1325-pixel.github.io/movie-explorer/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+---
+
+### 📝 Online Quiz
+
+<p>Interactive quiz application with multiple questions, scoring system, and instant feedback</p>
+
+**Tech Stack:** React | JavaScript | CSS | Bootstrap
+
+<a href="https://github.com/jiyanaz1325-pixel/online-quiz" target="_blank">
+<img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+
+<a href="https://jiyanaz1325-pixel.github.io/online-quiz/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+---
+
+### 🌐 Portfolio Website
+
+<p>Personal portfolio showcasing skills, projects, and certifications with a modern design</p>
+
+**Tech Stack:** React | CSS | Tailwind CSS
+
+<a href="https://github.com/jiyanaz1325-pixel/Portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+
+<a href="https://jiyanaz1325-pixel.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+</div>
 
 ---
 
