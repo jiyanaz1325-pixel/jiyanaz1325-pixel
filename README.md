@@ -10,7 +10,7 @@
 Hi 👋, I'm <span style="color:#FF6B6B;">JIYA NAZ</span>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=#FFFFFF&color=000000&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+%F0%9F%A4%96+AI+Engineer+%7C+%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=FFFFFF&color=000000&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+%F0%9F%A4%96+AI+Engineer+%7C+%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 <p align="center">
 Building intelligent applications that solve real-world problems.
