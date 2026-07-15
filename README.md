@@ -46,10 +46,6 @@ Building intelligent applications that solve real-world problems.
 
 🚀 Exploring Open Source
 
-🎯 Goal
-
-Become a Software Engineer at Microsoft / Google
-
 ⚡ Fun Fact
 
 I believe the best way to learn is by building projects.
@@ -71,24 +67,16 @@ I believe the best way to learn is by building projects.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/jiya-naz-810639328/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jiyanaz1325@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://jiyanaz1325-pixel.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="YOUR_HACKERRANK">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
@@ -155,23 +143,6 @@ I believe the best way to learn is by building projects.
 
 ---
 
-# 🤖 AI Interests
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- Prompt Engineering
-- Generative AI
-- TensorFlow
-- PyTorch
-- Hugging Face
-- Scikit-learn
-- OpenCV
-
----
-
 # 📂 Featured Projects
 
 | Project | Description |
@@ -225,25 +196,6 @@ I believe the best way to learn is by building projects.
 
 ---
 
-# 📈 Contribution Snake
-
-```text
-Configure using GitHub Actions
-```
-
----
-
-# 🎯 Current Focus
-
-- ✅ Building AI Projects
-- ✅ Learning Deep Learning
-- ✅ Practicing DSA
-- ✅ Exploring LLMs
-- ✅ Contributing to Open Source
-- ✅ Applying for Internships
-
----
-
 # 📜 Certifications
 
 - Microsoft Learn
@@ -257,29 +209,7 @@ Configure using GitHub Actions
 
 ---
 
-# 💡 Developer Quote
-
-> "Code is not just about solving problems. It's about creating possibilities."
-
----
-
-# 🎵 Spotify
-
-Add your Spotify Now Playing widget here.
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-# ❤️ Support
+# ❤️ THANK YOU!
 
 <p align="center">
 
