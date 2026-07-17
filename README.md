@@ -167,7 +167,7 @@ I believe the best way to learn is by building projects.
 
 ### 🛠️ Tools
 
-<p>
+<p align="left">
 
 <a href="https://github.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -175,6 +175,38 @@ I believe the best way to learn is by building projects.
 
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+
+<a href="https://chat.openai.com/" target="_blank">
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<a href="https://gemini.google.com/" target="_blank">
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://claude.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge"/>
+</a>
+
+<a href="https://lmarena.ai/" target="_blank">
+<img src="https://img.shields.io/badge/LM_Arena-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="https://flow.google/" target="_blank">
+<img src="https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://aixploria.com/" target="_blank">
+<img src="https://img.shields.io/badge/AIxploria-6A5ACD?style=for-the-badge"/>
+</a>
+
+<a href="https://elements.envato.com/" target="_blank">
+<img src="https://img.shields.io/badge/Envato-81B441?style=for-the-badge&logo=envato&logoColor=white"/>
+</a>
+
+<a href="https://meigen.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Meigen_AI-FF6B6B?style=for-the-badge"/>
 </a>
 
 </p>
