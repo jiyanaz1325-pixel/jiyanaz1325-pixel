@@ -191,11 +191,11 @@ I believe the best way to learn is by building projects.
 
 **Tech Stack:** HTML | CSS | JavaScript | OMDb API
 
-<a href="https://github.com/jiyanaz1325-pixel/movie-explorer" target="_blank">
+<a href="https://github.com/jiyanaz1325-pixel/Movie-Explorer-Recommendation-Web-Application" target="_blank">
 <img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/movie-explorer/" target="_blank">
+<a href="https://jiyanaz1325-pixel.github.io/Movie-Explorer-Recommendation-Web-Application/" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
@@ -207,11 +207,11 @@ I believe the best way to learn is by building projects.
 
 **Tech Stack:** React | JavaScript | CSS | Bootstrap
 
-<a href="https://github.com/jiyanaz1325-pixel/online-quiz" target="_blank">
+<a href="https://github.com/jiyanaz1325-pixel/Online-Quiz" target="_blank">
 <img src="https://img.shields.io/badge/Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
-<a href="https://jiyanaz1325-pixel.github.io/online-quiz/" target="_blank">
+<a href="https://jiyanaz1325-pixel.github.io/Online-Quiz/" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-%23FF6B6B.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
 
