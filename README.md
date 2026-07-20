@@ -115,10 +115,6 @@ I believe the best way to learn is by building projects.
 <img src="https://skillicons.dev/icons?i=css"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</a>
-
 </p>
 
 ---
@@ -161,6 +157,10 @@ I believe the best way to learn is by building projects.
 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </a>
 
 </p>
