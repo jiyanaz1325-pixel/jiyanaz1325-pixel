@@ -178,36 +178,38 @@ I believe the best way to learn is by building projects.
 </a>
 
 <a href="https://chat.openai.com/" target="_blank">
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="ChatGPT" width="45" height="45"/>
 </a>
 
 <a href="https://gemini.google.com/" target="_blank">
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="45" height="45"/>
 </a>
 
 <a href="https://claude.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude AI" width="45" height="45"/>
 </a>
 
 <a href="https://lmarena.ai/" target="_blank">
-<img src="https://img.shields.io/badge/LM_Arena-6C63FF?style=for-the-badge"/>
+  <img src="https://www.google.com/s2/favicons?sz=64&domain=lmarena.ai" alt="LM Arena" width="45" height="45"/>
 </a>
 
 <a href="https://flow.google/" target="_blank">
-<img src="https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Flow" width="45" height="45"/>
 </a>
 
 <a href="https://aixploria.com/" target="_blank">
-<img src="https://img.shields.io/badge/AIxploria-6A5ACD?style=for-the-badge"/>
+  <img src="https://www.google.com/s2/favicons?sz=64&domain=aixploria.com" alt="AIxploria" width="45" height="45"/>
 </a>
 
 <a href="https://elements.envato.com/" target="_blank">
-<img src="https://img.shields.io/badge/Envato-81B441?style=for-the-badge&logo=envato&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/envato/81B441" alt="Envato" width="45" height="45"/>
 </a>
 
 <a href="https://meigen.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Meigen_AI-FF6B6B?style=for-the-badge"/>
+  <img src="https://www.google.com/s2/favicons?sz=64&domain=meigen.ai" alt="Meigen AI" width="45" height="45"/>
 </a>
+
+</p>
 
 </p>
 
