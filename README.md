@@ -178,7 +178,10 @@ I believe the best way to learn is by building projects.
 </a>
 
 <a href="https://chat.openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="ChatGPT" width="45" height="45"/>
+  <img src="https://www.google.com/s2/favicons?domain=chat.openai.com&sz=64"
+       alt="ChatGPT"
+       width="45"
+       height="45">
 </a>
 
 <a href="https://gemini.google.com/" target="_blank">
